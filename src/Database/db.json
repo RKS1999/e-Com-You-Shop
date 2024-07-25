@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Roshan Singh",
+      "email": "roshan@gmail.com",
+      "password": "Password",
+      "number": "8436730510",
+      "dob": "1999-05-08",
+      "profileImage": "https://t4.ftcdn.net/jpg/06/03/64/07/360_F_603640779_QNVbk3tSd5nEU1uAO7RifpHUjLZCsjDJ.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Raj Singh",
+      "email": "raj@gmail.com",
+      "password": "Password",
+      "number": "9635411154",
+      "dob": "1999-05-08",
+      "profileImage": "https://t4.ftcdn.net/jpg/06/03/64/07/360_F_603640779_QNVbk3tSd5nEU1uAO7RifpHUjLZCsjDJ.jpg"
+    }
+  ]
+}
